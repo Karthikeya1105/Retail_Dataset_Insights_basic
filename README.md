@@ -23,6 +23,7 @@ The goal is to support data-driven decision-making across sales, marketing, and 
 | Property | Detail |
 |---|---|
 | **File** | `online_retail.csv` |
+|**File_link**| `https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset` |
 | **Rows** | 541,909 raw transactions |
 | **Columns** | 8 |
 | **Period** | December 2010 – December 2011 |
